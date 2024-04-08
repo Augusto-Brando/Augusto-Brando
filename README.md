@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Augusto Brando
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScrip and ReactJS
+- 🌱 I’m currently learning JavaScrip, NodeJS and ReactJS
