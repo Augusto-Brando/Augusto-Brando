@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Augusto Brando
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScrip, NodeJS and ReactJS
+Meu nome é Augusto Brando
+Dev JS
+Atualmente cursando Sistema de Informação
